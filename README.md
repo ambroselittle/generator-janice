@@ -25,7 +25,9 @@ Finally, initiate the generator:
 $ yo janice
 ```
 
-If you are ready, you will get Janice.
+If you are ready, you will get Janice:
+
+![Yeoman Janice Rand](https://raw.github.com/ambroselittle/generator-janice/master/app/templates/janice-rand.png "Yeoman Janice Rand")
 
 
 ## License
