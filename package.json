@@ -1,9 +1,11 @@
 {
   "name": "generator-janice",
   "version": "0.1.0",
-  "description": "A generator for Yeoman",
+  "description": "A Yeoman Janice Rand generator.",
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "Janice Rand",
+    "Star Trek"
   ],
   "homepage": "https://github.com/ambroselittle/generator-janice",
   "bugs": "https://github.com/ambroselittle/generator-janice/issues",
